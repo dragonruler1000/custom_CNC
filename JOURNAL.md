@@ -2,5 +2,5 @@
 start time 14:45
 got startred on designing a inishal version of a frame for the cnc machine in freecad.
 
-![](Images/Journal1.png]
+![](Images/Journal1.png)
 **time spent: 45min**
